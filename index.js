@@ -13,4 +13,4 @@ class User{
 const arpit = new User("chai@gmail.com", "abc");
 console.log(arpit._password);
 console.log(arpit._email);
-// console.log(arpit.password);
+// console.log(arpit.password)
